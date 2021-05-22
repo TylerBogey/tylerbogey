@@ -1,0 +1,14 @@
+Package: com.example.enterkdfu
+Name: EnterKDFU
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enters kdfu mdoe
+Maintainer: Tyler <noone@gmail.com>
+Author: Tyler <noone@gmail.com>
+Section: DFU
+Depends: 
+Filename: enterkdfu.deb
+Size: 1295532
+MD5sum: 20433c1d10743c35ebd24d462818dfef
+SHA1: ff8ca9709a4db78da193312c995d566bdb9f1ab6
+SHA256: 17a5eb9336cda8faaed37e9c9b12f913a83b41a17046075c428f8988c8342b11
